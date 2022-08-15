@@ -40,7 +40,7 @@ public class StartApp {
 
         System.out.println(valorA + valorB + "sda" + anoAtual + "asd");
 
-        // comentario de linha
+        // comentario de uma linha
         /*
             comentario
             de
